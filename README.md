@@ -66,3 +66,8 @@ uvicorn app.main:app --reload
 ```
 
 
+---
+
+This prompt includes all the necessary information to set up, run, and access your FastAPI application, ensuring clarity and completeness for any developer who wants to use or contribute to the project.
+
+

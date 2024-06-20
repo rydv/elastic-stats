@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore environment file
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore dependencies installed with pip
+# Remove this if you want to include dependencies in version control
+# requirements.txt
+
+# Ignore Docker related files
+# docker-compose.yml
+# docker-compose.override.yml
+
+# Ignore any other sensitive or unnecessary files
+# Add more entries as needed
