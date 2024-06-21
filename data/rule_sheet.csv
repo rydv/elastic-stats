@@ -1,0 +1,7 @@
+Rule Id,Rule Type,Country,Local Acc No,Amount,Value date,L/S,D/C,Ref 1,Ref 2,Ref 3,Ref 4
+RULE001,exact,UK,ALL,same,No,L,A,,Service Charge Reversal,,
+RULE001,exact,UK,ALL,same,No,L,A,invoice 8001,,,
+RULE002,exact,Canada,ALL,same,No,S,A,,,Account Transfer,
+RULE002,exact,Canada,ALL,same,No,S,A,,,,RBC 7890123
+RULE003,expression,USA,ALL,same,No,L,A,,,,8\d{5}
+RULE003,expression,USA,ALL,same,No,L,A,,,,8\d{5}
